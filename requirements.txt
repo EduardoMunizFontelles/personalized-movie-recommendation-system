@@ -1,0 +1,10 @@
+#função: listar todas as bibliotecas Python que seu projeto precisa para funcionar.
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+tmdbv3api
+jupyter
+streamlit

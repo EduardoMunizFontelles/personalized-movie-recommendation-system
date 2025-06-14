@@ -1,0 +1,21 @@
+# função: dizer ao Git quais arquivos e pastas não devem ser versionados (ou enviados para o GitHub)
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data folders
+data/raw/
+data/processed/
+
+# Virtual environments
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
