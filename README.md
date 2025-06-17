@@ -16,7 +16,7 @@ Build a complete end-to-end data science project that demonstrates skills in dat
 Python · Pandas · Scikit-Learn · XGBoost · Matplotlib · TMDb API · Streamlit
 
 ## 🗂️ Project Structure
-personalized-movie-recommendation-system/
+'''personalized-movie-recommendation-system/
 ├── data/
 │ ├── raw/ <- Raw data from Letterboxd and TMDb
 │ └── processed/ <- Cleaned and enriched data
@@ -33,3 +33,5 @@ personalized-movie-recommendation-system/
 ├── README.md
 ├── .venv
 └── .gitignore
+'''
+
