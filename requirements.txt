@@ -8,3 +8,5 @@ seaborn
 tmdbv3api
 jupyter
 streamlit
+python-dotenv
+

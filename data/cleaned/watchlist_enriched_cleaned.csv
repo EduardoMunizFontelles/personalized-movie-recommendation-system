@@ -1,0 +1,354 @@
+Name,Year,duration_min,genres,director,lead_actor,vote_average
+La La Land,2016,129.0,"Comedy, Drama, Romance, Music",Damien Chazelle,Ryan Gosling,7.9
+Dune,2021,155.0,"Science Fiction, Adventure",Denis Villeneuve,Timothée Chalamet,7.782
+Eternal Sunshine of the Spotless Mind,2004,108.0,"Science Fiction, Drama, Romance",Michel Gondry,Jim Carrey,8.092
+Uncut Gems,2019,136.0,"Drama, Thriller, Crime",Benny Safdie,Adam Sandler,7.2
+Hereditary,2018,128.0,"Horror, Mystery, Thriller",Ari Aster,Toni Collette,7.291
+Moonlight,2016,111.0,Drama,Barry Jenkins,Trevante Rhodes,7.371
+Don't Look Up,2021,138.0,"Comedy, Science Fiction",Adam McKay,Leonardo DiCaprio,7.07
+Black Swan,2010,109.0,"Drama, Thriller, Horror",Darren Aronofsky,Natalie Portman,7.7
+The Shape of Water,2017,123.0,"Drama, Fantasy, Romance",Guillermo del Toro,Sally Hawkins,7.243
+A Clockwork Orange,1971,137.0,"Science Fiction, Crime",Stanley Kubrick,Malcolm McDowell,8.186
+Sound of Metal,2019,120.0,"Drama, Music",Darius Marder,Riz Ahmed,7.712
+Come and See,1985,142.0,"Drama, War",Elem Klimov,Aleksei Kravchenko,8.234
+Chernobyl,2019,104.0,"Drama, Mystery",Dmitry Kiselev,Konstantin Davydov,7.313
+Stalker,1979,93.0,"Horror, Thriller",Steve Johnson,Sophie Skelton,6.0
+Rosemary's Baby,1968,138.0,"Drama, Horror, Thriller",Roman Polanski,Mia Farrow,7.827
+Faust,1926,128.0,"Drama, Fantasy",Peter Gorski,Will Quadflieg,7.281
+Awake,2007,84.0,"Thriller, Crime, Mystery",Joby Harold,Hayden Christensen,6.537
+The Big Short,2015,131.0,"Comedy, Drama",Adam McKay,Steve Carell,7.356
+Babel,2006,143.0,Drama,Alejandro González Iñárritu,Rinko Kikuchi,7.171
+The Thin Red Line,1998,171.0,"Drama, History, War",Terrence Malick,Jim Caviezel,7.45
+Enemy,2013,91.0,"Thriller, Mystery",Denis Villeneuve,Jake Gyllenhaal,6.856
+The Pink Panther 2,2009,92.0,"Comedy, Mystery",Harald Zwart,Steve Martin,5.7
+The Fly,1986,96.0,"Horror, Science Fiction",David Cronenberg,Jeff Goldblum,7.4
+The Time Machine,1960,103.0,"Thriller, Adventure, Fantasy, Science Fiction, Romance",George Pal,Rod Taylor,7.335
+The Searchers,1956,119.0,Western,John Ford,John Wayne,7.698
+The Wild Bunch,1969,145.0,Western,Sam Peckinpah,William Holden,7.598
+12 Years a Slave,2013,134.0,"Drama, History",Steve McQueen,Chiwetel Ejiofor,7.937
+The Outlaw Josey Wales,1976,135.0,Western,Clint Eastwood,Clint Eastwood,7.432
+For a Few Dollars More,1965,132.0,Western,Sergio Leone,Clint Eastwood,8.019
+Unbreakable,2000,106.0,"Thriller, Drama, Mystery",M. Night Shyamalan,Bruce Willis,7.1
+Inside Llewyn Davis,2013,104.0,"Drama, Music",Joel Coen,Oscar Isaac,7.191
+Life of Pi,2012,127.0,"Adventure, Drama",Ang Lee,Suraj Sharma,7.405
+The Adventures of Tintin,2011,107.0,"Adventure, Animation, Mystery",Steven Spielberg,Jamie Bell,6.901
+Hugo,2011,126.0,"Adventure, Drama, Family",Martin Scorsese,Asa Butterfield,7.171
+The Birth of a Nation,1915,195.0,"Drama, History, War",D.W. Griffith,Lillian Gish,6.005
+Willy Wonka & the Chocolate Factory,1971,99.0,"Family, Fantasy, Comedy",Mel Stuart,Gene Wilder,7.482
+Sleepers,1996,147.0,"Crime, Drama, Thriller",Barry Levinson,Kevin Bacon,7.604
+Lion,2016,118.0,Drama,Garth Davis,Dev Patel,8.045
+Thirteen Lives,2022,147.0,"Drama, Thriller",Ron Howard,Viggo Mortensen,7.9
+The Man Who Knew Too Much,1956,120.0,"Thriller, Mystery",Alfred Hitchcock,James Stewart,7.457
+Corpse Bride,2005,77.0,"Romance, Fantasy, Animation",Tim Burton,Johnny Depp,7.58
+A Brighter Summer Day,1991,237.0,"Crime, Drama, Romance",Edward Yang,Chang Chen,8.31
+The Hunt for Red October,1990,135.0,"Action, Adventure, Thriller",John McTiernan,Sean Connery,7.4
+Back to the Future Part III,1990,119.0,"Adventure, Comedy, Science Fiction",Robert Zemeckis,Michael J. Fox,7.488
+Arrival,2016,116.0,"Drama, Science Fiction, Mystery",Denis Villeneuve,Amy Adams,7.616
+Neighboring Sounds,2012,131.0,"Thriller, Drama, Crime",Kleber Mendonça Filho,Irandhir Santos,7.1
+The Emperor's New Groove,2000,78.0,"Adventure, Animation, Comedy, Family, Fantasy",Mark Dindal,David Spade,7.558
+Dances with Wolves,1990,181.0,"Adventure, Drama, Western",Kevin Costner,Kevin Costner,7.8
+Harriet,2019,125.0,"Drama, History",Kasi Lemmons,Cynthia Erivo,7.311
+The Banker,2020,120.0,Drama,George Nolfi,Anthony Mackie,7.626
+Puss in Boots: The Last Wish,2022,103.0,"Animation, Adventure, Fantasy, Comedy, Family",Joel Crawford,Antonio Banderas,8.216
+Lincoln,2012,149.0,"History, Drama",Steven Spielberg,Daniel Day-Lewis,6.856
+TÁR,2022,158.0,"Music, Drama",Todd Field,Cate Blanchett,7.091
+Tchaikovsky's Wife,2022,144.0,"Drama, History",Kirill Serebrennikov,Alyona Mikhaylova,6.4
+Narvik,2022,108.0,"War, Drama, History, Action",Erik Skjoldbjærg,Kristine Cornelie M. Hartgen,6.776
+Autumn Sonata,1978,93.0,Drama,Ingmar Bergman,Ingrid Bergman,7.976
+"Lock, Stock and Two Smoking Barrels",1998,105.0,"Comedy, Crime",Guy Ritchie,Vinnie Jones,8.113
+Gifted Hands: The Ben Carson Story,2009,86.0,Drama,Thomas Carter,Cuba Gooding Jr.,7.8
+P.S. I Love You,2007,126.0,"Drama, Romance",Richard LaGravenese,Hilary Swank,7.188
+The Help,2011,146.0,Drama,Tate Taylor,Emma Stone,8.206
+Atonement,2007,123.0,"Drama, Romance",Joe Wright,James McAvoy,7.643
+The Legend of 1900,1998,170.0,"Drama, Music",Giuseppe Tornatore,Tim Roth,8.255
+Born on the Fourth of July,1989,145.0,"Drama, War",Oliver Stone,Tom Cruise,7.0
+Funny Games,1997,109.0,"Drama, Horror, Thriller",Michael Haneke,Susanne Lothar,7.309
+True Grit,2010,110.0,"Drama, Adventure, Western",Ethan Coen,Jeff Bridges,7.307
+Butch Cassidy and the Sundance Kid,1969,111.0,"Western, Adventure, Crime, Drama, History",George Roy Hill,Paul Newman,7.602
+Risky Business,1983,98.0,"Romance, Comedy, Drama",Paul Brickman,Tom Cruise,6.617
+Jailhouse Rock,1957,96.0,"Music, Drama",Richard Thorpe,Elvis Presley,6.2
+Viva Las Vegas,1964,85.0,"Music, Romance, Comedy",George Sidney,Elvis Presley,6.2
+Saturday Night Fever,1977,118.0,"Music, Drama",John Badham,John Travolta,6.727
+Dirty Dancing,1987,100.0,"Drama, Music, Romance",Emile Ardolino,Jennifer Grey,7.329
+Ghost,1990,126.0,"Fantasy, Drama, Thriller, Mystery, Romance",Jerry Zucker,Patrick Swayze,7.225
+The Outsiders,1983,94.0,"Crime, Drama",Francis Ford Coppola,C. Thomas Howell,7.207
+Danton,1983,136.0,"Drama, History",Andrzej Wajda,Gérard Depardieu,6.896
+The Girl with the Dragon Tattoo,2009,152.0,"Drama, Thriller, Crime, Mystery",Niels Arden Oplev,Michael Nyqvist,7.527
+The Bridge on the River Kwai,1957,161.0,"Drama, History, War",David Lean,William Holden,7.811
+The Seventh Seal,1957,96.0,"Fantasy, Drama",Ingmar Bergman,Gunnar Björnstrand,8.185
+The Sting,1973,129.0,"Comedy, Crime, Drama",George Roy Hill,Paul Newman,8.026
+The Dreamers,2003,115.0,"Drama, Romance",Bernardo Bertolucci,Michael Pitt,7.2
+Last Tango in Paris,1972,129.0,"Drama, Romance",Bernardo Bertolucci,Marlon Brando,6.937
+Winter Sleep,2014,196.0,Drama,Nuri Bilge Ceylan,Haluk Bilginer,7.5
+Mirage,2018,109.0,"Mystery, Thriller",Edward Dmytryk,Gregory Peck,6.972
+Cronos,1992,94.0,"Drama, Horror, Thriller",Guillermo del Toro,Federico Luppi,6.678
+Pan's Labyrinth,2006,118.0,"Fantasy, Drama, War",Guillermo del Toro,Ivana Baquero,7.8
+Nine Queens,2000,114.0,"Crime, Thriller, Drama",Fabián Bielinsky,Ricardo Darín,7.769
+Cria!,1976,105.0,Drama,Carlos Saura,Ana Torrent,7.58
+The Specials,2019,114.0,"Comedy, Drama",Éric Toledano,Vincent Cassel,7.8
+Asterix & Obelix: Mission Cleopatra,2002,108.0,"Family, Fantasy, Comedy, Adventure",Alain Chabat,Christian Clavier,7.38
+Fear City: A Family-Style Comedy,1994,100.0,Comedy,Alain Berbérian,Chantal Lauby,7.47
+Les Misérables,2019,143.0,TV Movie,Michiko Namiki,Dean Fujioka,6.8
+Caché,2005,117.0,"Mystery, Drama, Thriller",Michael Haneke,Daniel Auteuil,7.06
+Beirut,2018,109.0,"Action, Thriller, Drama",Brad Anderson,Jon Hamm,6.292
+Munich – The Edge of War,2021,130.0,"Drama, History",Christian Schwochow,George MacKay,6.925
+Sergio,2020,118.0,Drama,Greg Barker,Wagner Moura,6.589
+Official Secrets,2019,112.0,"Thriller, History, Drama",Gavin Hood,Keira Knightley,7.212
+Italianamerican,1974,49.0,Documentary,Martin Scorsese,Catherine Scorsese,6.7
+Goya's Ghosts,2006,114.0,"Drama, History",Miloš Forman,Javier Bardem,6.604
+Lines of Wellington,2012,151.0,"Drama, History, War",Valeria Sarmiento,Nuno Lopes,5.802
+Phantom Thread,2017,130.0,"Drama, Romance",Paul Thomas Anderson,Daniel Day-Lewis,7.315
+Persona,1966,84.0,Drama,Ingmar Bergman,Bibi Andersson,8.154
+Licorice Pizza,2021,133.0,"Drama, Comedy, Romance",Paul Thomas Anderson,Alana Haim,6.968
+Code Unknown,2000,118.0,Drama,Michael Haneke,Juliette Binoche,6.7
+Under the Skin,2013,19.0,Drama,Pedro Sotero,Rita Carelli,6.0
+The Holdovers,2023,133.0,"Comedy, Drama",Alexander Payne,Paul Giamatti,7.68
+Don't Look Now,1973,110.0,"Thriller, Drama, Horror",Nicolas Roeg,Julie Christie,6.924
+Misery,1990,107.0,"Drama, Thriller",Rob Reiner,James Caan,7.747
+Roman Holiday,1953,119.0,"Romance, Comedy, Drama",William Wyler,Audrey Hepburn,7.881
+The Umbrellas of Cherbourg,1964,92.0,"Drama, Romance",Jacques Demy,Catherine Deneuve,7.386
+Fitzcarraldo,1982,157.0,"Drama, Adventure",Werner Herzog,Klaus Kinski,7.638
+Scott Joplin,1977,96.0,"Music, History",Jeremy Kagan,Billy Dee Williams,6.143
+"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,202.0,Drama,Chantal Akerman,Delphine Seyrig,7.383
+Breathless,1960,90.0,"Drama, Crime",Jean-Luc Godard,Jean-Paul Belmondo,7.52
+Death in Venice,1971,131.0,Drama,Luchino Visconti,Dirk Bogarde,7.283
+Cabaret,1972,124.0,"Music, Drama, Romance",Bob Fosse,Liza Minnelli,7.415
+Call Me by Your Name,2017,132.0,"Romance, Drama",Luca Guadagnino,Armie Hammer,8.115
+The King of Comedy,1982,109.0,"Drama, Comedy",Martin Scorsese,Robert De Niro,7.779
+The Round-Up,1966,90.0,"Drama, History, War",Miklós Jancsó,Zoltán Latinovits,7.3
+Lola Montès,1955,116.0,"Drama, History, Romance",Max Ophüls,Martine Carol,6.824
+Last Year at Marienbad,1961,95.0,"Drama, Romance",Alain Resnais,Delphine Seyrig,7.422
+City Lights,1931,87.0,"Comedy, Drama, Romance",Charlie Chaplin,Charlie Chaplin,8.265
+Dangerous Liaisons,1988,119.0,"Drama, Romance",Stephen Frears,Glenn Close,7.201
+Once Upon a Time in America,1984,229.0,"Drama, Crime",Sergio Leone,Robert De Niro,8.407
+Beasts of the Southern Wild,2012,93.0,"Drama, Fantasy",Benh Zeitlin,Quvenzhané Wallis,6.813
+Belfast,2021,98.0,"Drama, History",Kenneth Branagh,Jude Hill,7.066
+Picnic at Hanging Rock,1975,115.0,"Drama, Mystery",Peter Weir,Rachel Roberts,7.202
+1900,1976,316.0,"Drama, History",Bernardo Bertolucci,Robert De Niro,7.817
+The Killing of a Sacred Deer,2017,121.0,"Drama, Thriller, Mystery",Yorgos Lanthimos,Colin Farrell,7.0
+Hector and the Search for Happiness,2014,114.0,"Adventure, Drama, Comedy",Peter Chelsom,Simon Pegg,6.7
+"Onoda: 10,000 Nights in the Jungle",2021,167.0,"Drama, Adventure, War, History",Arthur Harari,Yuya Endo,7.103
+Hackers,1995,107.0,"Action, Crime, Thriller, Drama",Iain Softley,Jonny Lee Miller,6.369
+Army of Shadows,1969,145.0,"War, History, Thriller",Jean-Pierre Melville,Lino Ventura,7.908
+A Prophet,2009,155.0,"Crime, Drama",Jacques Audiard,Tahar Rahim,7.586
+The Mother and the Whore,1973,219.0,"Drama, Romance",Jean Eustache,Bernadette Lafont,7.434
+Contempt,1963,103.0,"Drama, Romance",Jean-Luc Godard,Brigitte Bardot,7.1
+Pierrot le Fou,1965,110.0,"Drama, Romance, Crime",Jean-Luc Godard,Jean-Paul Belmondo,7.361
+Vivre Sa Vie,1962,84.0,Drama,Jean-Luc Godard,Anna Karina,7.724
+Australia,2008,165.0,"Adventure, Romance, Drama",Baz Luhrmann,Nicole Kidman,6.592
+The Vanishing,1993,109.0,"Thriller, Drama, Mystery, Horror",George Sluizer,Kiefer Sutherland,6.11
+Caddyshack,1980,98.0,Comedy,Harold Ramis,Chevy Chase,6.6
+"It's a Mad, Mad, Mad, Mad World",1963,197.0,"Action, Adventure, Comedy, Crime",Stanley Kramer,Spencer Tracy,6.971
+The Sound of Music,1965,174.0,"Drama, Family, Music, Romance",Robert Wise,Julie Andrews,7.729
+Night and Fog,1956,32.0,"Documentary, History",Alain Resnais,Michel Bouquet,8.2
+Rocco and His Brothers,1960,178.0,"Drama, Romance",Luchino Visconti,Alain Delon,8.018
+The New World,2005,151.0,"Drama, History, Romance",Terrence Malick,Colin Farrell,6.511
+A Beautiful Mind,2001,135.0,"Drama, Romance",Ron Howard,Russell Crowe,7.855
+Climax,2018,97.0,"Horror, Drama",Gaspar Noé,Sofia Boutella,7.053
+Ashes and Diamonds,1958,103.0,"Drama, War, Romance",Andrzej Wajda,Zbigniew Cybulski,7.427
+The Killer,2023,118.0,"Crime, Thriller",David Fincher,Michael Fassbender,6.577
+Lancelot of the Lake,1974,85.0,"Drama, Romance, History",Robert Bresson,Luc Simon,6.257
+Notorious,1946,103.0,"Thriller, Romance, Mystery",Alfred Hitchcock,Cary Grant,7.748
+The Treasure of the Sierra Madre,1948,126.0,"Adventure, Drama, Western",John Huston,Humphrey Bogart,7.95
+Intolerance: Love's Struggle Throughout the Ages,1916,197.0,"Drama, History",D.W. Griffith,Lillian Gish,7.074
+Edward Scissorhands,1990,105.0,"Fantasy, Drama, Romance",Tim Burton,Johnny Depp,7.717
+The General,1926,79.0,"Action, Adventure, Comedy, War",Clyde Bruckman,Buster Keaton,7.938
+The Great Dictator,1940,125.0,"Comedy, War",Charlie Chaplin,Charlie Chaplin,8.296
+The Kid,1921,68.0,"Comedy, Drama",Charlie Chaplin,Charlie Chaplin,8.154
+Nanook of the North,1922,79.0,"Documentary, Drama",Robert Flaherty,Allakariallak,7.103
+The House Is Black,1963,21.0,Documentary,Forugh Farrokhzad,Forugh Farrokhzad,7.33
+Sans Soleil,1983,100.0,Documentary,Chris Marker,Florence Delay,7.444
+Greed,1924,140.0,"Drama, Crime",Erich von Stroheim,Gibson Gowland,7.36
+The Apartment,1960,125.0,"Comedy, Drama, Romance",Billy Wilder,Jack Lemmon,8.197
+The Crowd,1928,98.0,"Drama, Romance",King Vidor,Eleanor Boardman,7.601
+After Death,1915,46.0,"Drama, Horror",Yevgeni Bauer,Vitold Polonsky,6.037
+The Passion of Joan of Arc,1928,82.0,"Drama, History",Carl Theodor Dreyer,Maria Falconetti,8.0
+The Patriot,2000,165.0,"Drama, History, War, Action",Roland Emmerich,Mel Gibson,7.176
+Le Trou,1960,132.0,"Drama, Thriller, Crime",Jacques Becker,Michel Constantin,8.254
+Ran,1985,160.0,"Action, Drama, History",Akira Kurosawa,Tatsuya Nakadai,8.055
+High and Low,1963,142.0,"Drama, Crime, Mystery, Thriller",Akira Kurosawa,Toshirō Mifune,8.348
+Civil War,2024,109.0,"War, Action, Drama",Alex Garland,Kirsten Dunst,6.86
+Frost/Nixon,2008,122.0,"Drama, History",Ron Howard,Michael Sheen,7.278
+Crocodile Dundee,1986,104.0,"Adventure, Comedy",Peter Faiman,Paul Hogan,6.413
+The Great Escape,1963,173.0,"Adventure, Drama, War",John Sturges,Steve McQueen,7.944
+Midsommar,2019,147.0,"Horror, Drama, Mystery",Ari Aster,Florence Pugh,7.154
+Seven Samurai,1954,207.0,"Action, Drama",Akira Kurosawa,Toshirō Mifune,8.456
+Vertigo,1958,128.0,"Mystery, Romance, Thriller",Alfred Hitchcock,James Stewart,8.2
+The Mad Adventures of Rabbi Jacob,1973,100.0,Comedy,Gérard Oury,Louis de Funès,7.394
+A Dangerous Method,2011,99.0,"Drama, Thriller",David Cronenberg,Keira Knightley,6.4
+King Solomon's Mines,1950,103.0,"Adventure, Action, Romance",Compton Bennett,Deborah Kerr,6.5
+The Bounty,1984,132.0,"Action, Drama, History",Roger Donaldson,Mel Gibson,6.692
+Planet of the Apes,1968,112.0,"Science Fiction, Adventure, Drama, Action",Franklin J. Schaffner,Charlton Heston,7.645
+Blue Is the Warmest Color,2013,180.0,"Romance, Drama",Abdellatif Kechiche,Léa Seydoux,7.074
+The Last Duel,2021,153.0,"History, Drama, Action",Ridley Scott,Jodie Comer,7.429
+Cold Mountain,2003,154.0,"War, History, Adventure, Romance",Anthony Minghella,Jude Law,6.93
+Being the Ricardos,2021,132.0,"Drama, History",Aaron Sorkin,Nicole Kidman,6.488
+Trainspotting,1996,94.0,"Drama, Crime",Danny Boyle,Ewan McGregor,7.962
+Wall Street,1987,126.0,"Crime, Drama",Oliver Stone,Michael Douglas,7.166
+Tokyo Story,1953,137.0,Drama,Yasujirō Ozu,Chishū Ryū,8.17
+The Inner Circle,1991,137.0,"Drama, History",Andrei Konchalovsky,Tom Hulce,5.635
+Indochine,1992,159.0,"Drama, Romance",Régis Wargnier,Catherine Deneuve,7.1
+Gattaca,1997,106.0,"Thriller, Science Fiction, Mystery, Romance",Andrew Niccol,Ethan Hawke,7.561
+Zero Dark Thirty,2012,157.0,"Thriller, Drama",Kathryn Bigelow,Jessica Chastain,6.988
+Career Opportunities,1991,83.0,"Romance, Comedy",Bryan Gordon,Frank Whaley,6.9
+Death Wish,1974,93.0,"Crime, Drama, Action",Michael Winner,Charles Bronson,6.886
+Vicky Cristina Barcelona,2008,96.0,"Drama, Romance",Woody Allen,Scarlett Johansson,6.792
+Man of Aran,1934,76.0,Documentary,Robert Flaherty,Colman 'Tiger' King,7.3
+Moana,1926,98.0,Documentary,Robert Flaherty,Ta'avale,6.6
+Olympia: Part One – Festival of the Nations,1938,127.0,Documentary,Leni Riefenstahl,David Albritton,6.886
+The Song of Ceylon,1934,38.0,Documentary,Basil Wright,Lionel Wendt,6.2
+Spare Time,1939,15.0,Documentary,Humphrey Jennings,Laurie Lee,6.2
+Backstroke,2017,11.0,"Thriller, Horror",Robbie Barclay,Josefine Christoffersen,5.8
+Jamon Jamon,1992,95.0,"Comedy, Drama, Romance",Bigas Luna,Javier Bardem,6.2
+He's Just Not That Into You,2009,129.0,"Comedy, Romance, Drama",Ken Kwapis,Ginnifer Goodwin,6.608
+Nicht ganz Koscher,2022,120.0,Comedy,Stefan Sarazin,Luzer Twersky,7.8
+My Father's Glory,1990,105.0,"Adventure, Drama",Yves Robert,Philippe Caubère,7.3
+It's Only the End of the World,2016,99.0,Drama,Xavier Dolan,Gaspard Ulliel,7.2
+Coco,2017,105.0,"Family, Animation, Music, Adventure",Lee Unkrich,Anthony Gonzalez,8.205
+All the Mornings of the World,1991,115.0,"Drama, History, Music, Romance",Alain Corneau,Jean-Pierre Marielle,7.1
+Shoah,1985,566.0,"Documentary, History",Claude Lanzmann,Claude Lanzmann,8.261
+4 Little Girls,1997,102.0,Documentary,Spike Lee,Maxine McNair,7.261
+La Strada,1954,115.0,Drama,Federico Fellini,Giulietta Masina,7.903
+Malcolm X,1992,202.0,"Drama, History",Spike Lee,Denzel Washington,7.542
+Murder Mystery,2019,97.0,"Action, Comedy, Mystery",Kyle Newacheck,Adam Sandler,6.271
+For Whom the Bell Tolls,1943,170.0,"War, Romance, History, Drama, Adventure",Sam Wood,Gary Cooper,6.539
+Johnny Got His Gun,1971,112.0,"War, Drama",Dalton Trumbo,Timothy Bottoms,7.505
+Gallipoli,1981,112.0,"War, History, Drama",Peter Weir,Mel Gibson,7.047
+The Lives of Others,2006,137.0,"Drama, Thriller",Florian Henckel von Donnersmarck,Martina Gedeck,8.034
+Hamilton,2020,160.0,"History, Drama",Thomas Kail,Lin-Manuel Miranda,8.141
+Spotlight,2015,129.0,"Drama, History",Tom McCarthy,Mark Ruffalo,7.814
+White Man's Burden,1995,89.0,Drama,Desmond Nakano,John Travolta,5.1
+Central Station,1998,110.0,Drama,Walter Salles,Fernanda Montenegro,8.139
+"Rio, Northern Zone",1957,83.0,"Drama, Music",Nelson Pereira dos Santos,Grande Otelo,8.2
+The Given Word,1962,98.0,Drama,Anselmo Duarte,Leonardo Villar,8.111
+The Second Mother,2015,112.0,Drama,Anna Muylaert,Regina Casé,8.03
+Invisible Life,2019,140.0,Drama,Karim Aïnouz,Carol Duarte,7.9
+Speed,1994,116.0,"Action, Thriller",Jan de Bont,Keanu Reeves,7.144
+Die Hard 2,1990,124.0,"Action, Thriller",Renny Harlin,Bruce Willis,6.958
+Ford v Ferrari,2019,153.0,"Drama, Action, History",James Mangold,Matt Damon,8.002
+Bolero,1981,184.0,"Drama, Music",Claude Lelouch,Robert Hossein,7.0
+Blue Velvet,1986,120.0,"Mystery, Thriller, Crime, Drama",David Lynch,Isabella Rossellini,7.6
+The Spirit of the Beehive,1973,97.0,"Drama, Fantasy",Víctor Erice,Fernando Fernán Gómez,7.628
+Tropical Malady,2004,114.0,"Drama, Romance, Fantasy",Apichatpong Weerasethakul,Banlop Lomnoi,6.761
+La Ciénaga,2001,103.0,"Drama, Comedy",Lucrecia Martel,Mercedes Morán,6.9
+The Secret Life of Walter Mitty,2013,114.0,"Adventure, Comedy, Drama, Fantasy",Ben Stiller,Ben Stiller,7.197
+Paris Is Burning,1990,78.0,Documentary,Jennie Livingston,Pepper LaBeija,8.0
+The Piano,1993,120.0,"Drama, Romance",Jane Campion,Holly Hunter,7.385
+Touki Bouki,1973,91.0,"Drama, Romance",Djibril Diop Mambéty,Magaye Niang,6.704
+Lisbela and the Prisoner,2003,106.0,"Comedy, Romance",Guel Arraes,Selton Mello,7.8
+The Trespasser,2001,97.0,"Drama, Thriller, Crime",Beto Brant,Paulo Miklos,6.906
+Children of Men,2006,109.0,"Drama, Action, Thriller, Science Fiction",Alfonso Cuarón,Clive Owen,7.611
+The Edge,1997,117.0,"Action, Adventure, Drama",Lee Tamahori,Anthony Hopkins,6.8
+Man with a Movie Camera,1929,68.0,Documentary,Dziga Vertov,Mikhail Kaufman,7.846
+The Fugitive,1993,131.0,"Action, Thriller, Drama",Andrew Davis,Harrison Ford,7.466
+"Faster, Pussycat! Kill! Kill!",1965,83.0,"Crime, Action, Thriller, Comedy",Russ Meyer,Tura Satana,6.344
+Reds,1981,195.0,"Drama, History, Romance",Warren Beatty,Warren Beatty,6.886
+Tea with Mussolini,1999,117.0,"Comedy, Drama, War",Franco Zeffirelli,Maggie Smith,6.4
+Vincere,2009,128.0,"Drama, History",Marco Bellocchio,Giovanna Mezzogiorno,6.7
+Triumph of the Will,1935,114.0,Documentary,Leni Riefenstahl,Adolf Hitler,6.92
+A Wolf at the Door,2013,98.0,"Drama, Thriller, Crime",Fernando Coimbra,Leandra Leal,7.4
+The Wicker Man,1973,93.0,Horror,Robin Hardy,Edward Woodward,7.343
+The Cabin in the Woods,2011,95.0,"Horror, Mystery",Drew Goddard,Kristen Connolly,6.634
+Predestination,2014,98.0,"Science Fiction, Thriller",Peter Spierig,Ethan Hawke,7.425
+Sorry to Bother You,2018,112.0,"Fantasy, Science Fiction, Comedy",Boots Riley,LaKeith Stanfield,6.797
+Frantic,1988,120.0,"Thriller, Mystery, Crime, Drama",Roman Polanski,Harrison Ford,6.722
+Raid on Entebbe,1976,145.0,"Drama, Thriller, TV Movie, History",Irvin Kershner,Charles Bronson,6.0
+A Dry White Season,1989,107.0,"Drama, Mystery",Euzhan Palcy,Donald Sutherland,6.7
+Prizzi's Honor,1985,124.0,"Romance, Comedy, Crime",John Huston,Jack Nicholson,6.39
+Twilight's Last Gleaming,1977,146.0,Thriller,Robert Aldrich,Burt Lancaster,6.377
+The Killing Fields,1984,142.0,"Drama, History, War",Roland Joffé,Sam Waterston,7.464
+Apollo 13,1995,140.0,"Drama, History",Ron Howard,Tom Hanks,7.449
+The King's Speech,2010,118.0,"Drama, History",Tom Hooper,Colin Firth,7.734
+Darkest Hour,2017,125.0,"Drama, History",Joe Wright,Gary Oldman,7.4
+The Right Stuff,1983,193.0,"Drama, History, Adventure",Philip Kaufman,Sam Shepard,7.433
+Milk,2008,128.0,"History, Drama",Gus Van Sant,Sean Penn,7.239
+50 First Dates,2004,99.0,"Comedy, Romance",Peter Segal,Adam Sandler,6.866
+Forgetting Sarah Marshall,2008,111.0,"Comedy, Romance, Drama",Nicholas Stoller,Jason Segel,6.5
+The Many Adventures of Winnie the Pooh,1977,74.0,"Animation, Family, Adventure",John Lounsbery,Sterling Holloway,7.245
+Punch-Drunk Love,2002,96.0,"Romance, Drama, Comedy",Paul Thomas Anderson,Adam Sandler,7.1
+Collateral,2004,120.0,"Drama, Crime, Thriller",Michael Mann,Tom Cruise,7.23
+Aquarius,2016,147.0,Drama,Kleber Mendonça Filho,Sônia Braga,7.5
+Captain Corelli's Mandolin,2001,131.0,"Drama, Romance, War",John Madden,Nicolas Cage,6.0
+Valkyrie,2008,121.0,"Drama, Thriller, War",Bryan Singer,Tom Cruise,6.948
+Enemy at the Gates,2001,131.0,"Drama, War, History, Romance",Jean-Jacques Annaud,Jude Law,7.42
+In This Corner of the World,2016,130.0,"Drama, Animation, Romance, War, History",Sunao Katabuchi,Non,7.9
+Harold and Maude,1971,91.0,"Comedy, Drama, Romance",Hal Ashby,Ruth Gordon,7.614
+Butterfly on a Wheel,2007,95.0,"Crime, Drama, Thriller",Mike Barker,Pierce Brosnan,6.403
+Inherent Vice,2014,149.0,"Drama, Mystery, Comedy",Paul Thomas Anderson,Joaquin Phoenix,6.554
+The Big Country,1958,166.0,"Drama, Western, Romance",William Wyler,Gregory Peck,7.601
+American Made,2017,115.0,"Action, Comedy, Crime, Drama",Doug Liman,Tom Cruise,6.892
+Back to Black,2024,122.0,"Music, History, Drama",Sam Taylor-Johnson,Marisa Abela,6.684
+White Boy Rick,2018,111.0,"Crime, Drama",Yann Demange,Richie Merritt,6.353
+Stand by Me,1986,89.0,"Crime, Drama",Rob Reiner,Wil Wheaton,7.855
+Good Kids,2016,86.0,Comedy,Chris McCoy,Nicholas Braun,6.306
+Anatomy of a Murder,1959,161.0,"Crime, Drama, Mystery",Otto Preminger,James Stewart,7.845
+The Life and Death of Colonel Blimp,1943,163.0,"War, Drama, Romance, Comedy",Emeric Pressburger,Roger Livesey,7.464
+Scream,1996,112.0,"Crime, Horror, Mystery",Wes Craven,David Arquette,7.415
+Ocean's Thirteen,2007,122.0,"Crime, Thriller",Steven Soderbergh,George Clooney,6.721
+The Battle of Chile: Part I,1975,97.0,"Documentary, History",Patricio Guzmán,Salvador Allende,7.2
+"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021,117.0,"Music, Documentary, History",Questlove,Stevie Wonder,7.61
+LA 92,2017,114.0,"Documentary, History",T.J. Martin,Rodney King,7.73
+Zeitgeist,2007,118.0,"Documentary, History",Peter Joseph,Chögyam Trungpa,7.0
+The Death of Stalin,2017,107.0,"Comedy, Drama, History",Armando Iannucci,Steve Buscemi,7.002
+A Guerra dos Pelados,1970,92.0,"History, Drama, War",Sylvio Back,Átila Iório,5.0
+Charlie Wilson's War,2007,102.0,"Comedy, Drama, History",Mike Nichols,Tom Hanks,6.54
+The Three Caballeros,1944,71.0,"Animation, Family, Music",Norman Ferguson,Clarence Nash,6.283
+Perfect Days,2023,124.0,Drama,Wim Wenders,Koji Yakusho,7.8
+Sidewalls,2011,94.0,"Drama, Romance",Gustavo Taretto,Pilar López de Ayala,7.507
+Somewhere in Time,1980,103.0,"Drama, Fantasy, Romance",Jeannot Szwarc,Christopher Reeve,7.503
+"Girl, Interrupted",1999,127.0,Drama,James Mangold,Winona Ryder,7.564
+Sabrina,1995,127.0,"Romance, Drama",Sydney Pollack,Harrison Ford,6.2
+Clueless,1995,97.0,"Comedy, Romance",Amy Heckerling,Alicia Silverstone,7.273
+The Proposal,2009,108.0,"Comedy, Romance, Drama",Anne Fletcher,Sandra Bullock,7.152
+Nine Months,1995,103.0,"Romance, Comedy",Chris Columbus,Hugh Grant,5.723
+Lion of the Desert,1980,173.0,"History, War, Drama",Moustapha Akkad,Anthony Quinn,7.289
+Porco Rosso,1992,93.0,"Family, Comedy, Animation, Adventure",Hayao Miyazaki,Shūichirō Moriyama,7.8
+Seven Years in Tibet,1997,136.0,"Adventure, Drama, History",Jean-Jacques Annaud,Brad Pitt,7.157
+Affliction,1997,114.0,"Crime, Drama, Mystery, Thriller",Paul Schrader,Nick Nolte,6.314
+The Master,2012,137.0,Drama,Paul Thomas Anderson,Joaquin Phoenix,7.115
+Mean Streets,1973,111.0,"Drama, Crime",Martin Scorsese,Harvey Keitel,7.08
+Labyrinth,1986,102.0,"Adventure, Family, Fantasy",Jim Henson,David Bowie,7.268
+The Wild Robot,2024,102.0,"Animation, Science Fiction, Family",Chris Sanders,Lupita Nyong'o,8.311
+The Worst Person in the World,2021,128.0,"Drama, Romance, Comedy",Joachim Trier,Renate Reinsve,7.5
+Mirror,1975,29.0,"Science Fiction, Drama, Romance",Keith LaFountaine,Diana Sanchez,8.2
+Hit Them Hard! The Brazilian Fighter Squadron in World War II,1999,112.0,"Documentary, War, History",Erik de Castro,Newton Neiva de Figueiredo,7.0
+The Good Nurse,2022,121.0,"Drama, Crime, Mystery",Tobias Lindholm,Jessica Chastain,6.9
+Gonzaga: From Father to Son,2012,120.0,"Drama, History, Music",Breno Silveira,Adélio Lima,7.2
+Polícia Federal: A Lei é Para Todos - Os Bastidores da Operação Lava Jato,2017,107.0,"Action, Thriller, Crime",Marcelo Antunez,Antonio Calloni,7.0
+Anna,2019,119.0,"Action, Adventure, Thriller",Luc Besson,Sasha Luss,6.705
+Colombiana,2011,108.0,"Action, Thriller, Crime, Drama",Olivier Megaton,Zoe Saldaña,6.631
+The Score,2001,124.0,"Action, Crime, Thriller, Mystery, Drama",Frank Oz,Robert De Niro,6.702
+6 Days,2017,95.0,"Action, Drama, History, Thriller",Toa Fraser,Jamie Bell,6.036
+Arnold,2023,4.0,Drama,Nadav Asal,Nadav Asal,10.0
+Getulio,2014,100.0,"Drama, History",João Jardim,Tony Ramos,6.706
+Playing,2007,105.0,Documentary,Eduardo Coutinho,Fernanda Torres,8.384
+The Cup,1999,93.0,Comedy,Khyentse Norbu,Orgyen Tobgyal,6.536
+L.A. Confidential,1997,138.0,"Crime, Mystery, Thriller, Drama",Curtis Hanson,Guy Pearce,7.798
+Pretty Woman,1990,120.0,"Romance, Comedy",Garry Marshall,Richard Gere,7.463
+Green Card,1990,108.0,"Comedy, Romance, Drama",Peter Weir,Gérard Depardieu,6.126
+Sleepless in Seattle,1993,105.0,"Comedy, Drama, Romance",Nora Ephron,Meg Ryan,6.742
+While You Were Sleeping,1995,99.0,"Romance, Comedy",Jon Turteltaub,Sandra Bullock,7.014
+True Lies,1994,141.0,"Action, Thriller",James Cameron,Arnold Schwarzenegger,7.079
+Into the Wild,2007,148.0,"Adventure, Drama",Sean Penn,Emile Hirsch,7.797
+The Assassination of Jesse James by the Coward Robert Ford,2007,159.0,"Drama, Western",Andrew Dominik,Casey Affleck,7.04
+Tetris,2023,118.0,"Thriller, History, Drama",Jon S. Baird,Taron Egerton,7.671
+One Hundred and One Dalmatians,1961,79.0,"Adventure, Animation, Comedy, Family",Clyde Geronimi,Rod Taylor,7.176
+Glengarry Glen Ross,1992,100.0,"Crime, Drama, Mystery",James Foley,Al Pacino,7.343
+Miller's Crossing,1990,115.0,"Drama, Thriller, Crime",Joel Coen,Gabriel Byrne,7.46
+Soundtrack to a Coup d'Etat,2024,150.0,"Documentary, History, Music",Johan Grimonprez,Patrice Lumumba,7.4
+1930 - Tempo de Revolução,1990,48.0,Documentary,Eduardo Escorel,Edwin Luisi,5.5
+32 – A Guerra Civil,1993,48.0,Documentary,Eduardo Escorel,Edwin Luisi,5.5
+Panic Room,2002,111.0,"Crime, Drama, Thriller",David Fincher,Jodie Foster,6.784
+Enemy of the State,1998,132.0,"Action, Drama, Thriller",Tony Scott,Will Smith,7.054
+Le Cercle Rouge,1970,140.0,"Crime, Thriller, Drama",Jean-Pierre Melville,Alain Delon,7.618
+Manchester by the Sea,2016,138.0,Drama,Kenneth Lonergan,Casey Affleck,7.5
+Halloween,1978,91.0,"Horror, Thriller",John Carpenter,Donald Pleasence,7.6
+Bottle Rocket,1996,91.0,"Comedy, Crime, Drama",Wes Anderson,Luke Wilson,6.697
+The Official Story,1985,112.0,"Drama, History",Luis Puenzo,Norma Aleandro,7.471
+The Enigma of Kaspar Hauser,1974,109.0,"Drama, History",Werner Herzog,Bruno S.,7.339
+"Aguirre, the Wrath of God",1972,95.0,"History, Adventure, Drama",Werner Herzog,Klaus Kinski,7.466
+Grizzly Man,2005,103.0,Documentary,Werner Herzog,Timothy Treadwell,7.5
+Stroszek,1977,107.0,Drama,Werner Herzog,Bruno S.,7.351
+Cobra Verde,1987,111.0,"Adventure, Drama",Werner Herzog,Klaus Kinski,6.9
+Russian Ark,2002,99.0,"Drama, Fantasy, History",Aleksandr Sokurov,Sergey Dreyden,7.262
+Orlando,1992,90.0,"Drama, Fantasy",Sally Potter,Tilda Swinton,6.884

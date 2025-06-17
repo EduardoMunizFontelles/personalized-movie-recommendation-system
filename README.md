@@ -29,5 +29,7 @@ Python · Pandas · Scikit-Learn · XGBoost · Matplotlib · TMDb API · Streaml
 ├── app/ <- Streamlit or Gradio interface
 │ └── app.py
 ├── requirements.txt
+├── .env ← minha chave da TMDb
 ├── README.md
+├── .venv
 └── .gitignore```
